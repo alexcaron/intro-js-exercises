@@ -1,0 +1,29 @@
+4.1. bar
+4.2. undefined, bar undefined, 'bar'
+4.3. bar, 'bar'
+
+5.
+substring - String - Prototype method
+create - Object - Static method
+fromCharCode - String - Static method
+slice - String, Array - Prototype method
+toString - String, Object, Array, Number - Prototype method
+
+6.
+index - YES
+CatName - No, PascalCase is better for constants
+snake_case - No, better for file names
+lazyDog - YES
+quick_Fox - No
+1stCharacter - No, first character should be a letter
+operand2 - YES
+BIG_NUMBER - No, SCREAMING_SNAKE_CASE is better for constants
+
+7.
+Same as above, but CatName could be an object name / constructor function.
+
+8.
+BIG_NUMBER. CatName could be for a local constant (inside function) but generally this would be better for an object / constructor.
+
+9.
+snake_case, quick_Fox, 1stCharacter
