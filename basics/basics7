@@ -1,0 +1,1 @@
+No. In Javascript, trying to access an element at an index that is is >= to the array's length will just return undefined, rather than throwing an error.

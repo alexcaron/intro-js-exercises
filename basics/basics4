@@ -1,0 +1,1 @@
+If the + operator is used and one of its operands is a string, then the other operand will be implicitly coerced into the String data type and the operator will concatenate the two. In this case, because '5' is a string, the number 10 also becomes string, and then the two strings are concatenated to become '510'.

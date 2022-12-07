@@ -1,0 +1,1 @@
+'12' < '9' evaluates to true. The less than operator allows for two strings to be compared. Since the character '1' precedes '9', the first string is earlier "alphabetically" than the second string and so the expressions is true.

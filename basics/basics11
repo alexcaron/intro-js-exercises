@@ -1,0 +1,1 @@
+parseInt('3.1415') will evaluate to 3 because it takes a String input and if the string begins with a numeral, it returns the initial sequence of numerals, up until the first non-numeric character (in this case the decimal point "."), as an integer.
