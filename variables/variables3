@@ -1,0 +1,1 @@
+This program should result in an error. The program is trying to print the value of the variable foo to the console, but that variable is only declared within the scope of the block. Since the console.log() call is outside that block, it doesn't know about this variable declaration and so the variable can't be used.

@@ -1,0 +1,1 @@
+This program will print 3 greeting messages to Victor (lines 2-4 of the the program). Then, it will throw an error when the code attempts to reassign NAME to a new value (the string "Joe"). Since NAME is declared as a constant, it can't be assigned to a new value.

@@ -1,0 +1,1 @@
+This won't yield an error, though it is poor practice. The second use of FOO is declaring a new constant that is also named FOO, rather than reassigning the value of the original constant FOO. What this means is that within and outside of the block, there are two different constants -- both named FOO -- with the values "bar" and "qux" respectively.
