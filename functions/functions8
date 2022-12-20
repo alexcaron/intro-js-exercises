@@ -1,0 +1,1 @@
+This program will log "42" and then "3.1415" to the console. It will ignore the extra argument provided (2.718).

@@ -1,0 +1,14 @@
+multiply = global
+left = local
+right = local
+product = local
+
+getNumber = global
+prompt = local
+
+parseFloat = global
+question = global
+
+left (in this instance) = global
+right (in this instance) = global
+console = global

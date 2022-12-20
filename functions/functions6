@@ -1,0 +1,15 @@
+arguments = 2, 3, 4
+
+body = the let and return lines between the curly braces (lines 2 and 3)
+
+declaration = lines 1-4 where the function name, parameters, and body are provided
+
+invocation = multiplyNumbers(2, 3, 4) in line 6 where the function is called
+
+name = multiplyNumbers
+
+parameters = num1, num2, num3
+
+return value = result (which will be the value of the parameters multiplied together)
+
+all variables names = multiplyNumbers, num1, num2, num3, result, product

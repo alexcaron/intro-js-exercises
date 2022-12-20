@@ -1,0 +1,1 @@
+This will log "Hello" and then Undefined to the console. The second parameter is provided no value, so it will have the value undefined, which is logged to the console.

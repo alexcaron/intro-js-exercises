@@ -1,0 +1,1 @@
+This will output 1 since the function uses let to declare a new "bar" variable, distinct from the one that appears outside the function. When the function is called, that new variable will be created, but this won't affect the value of the other variable, which remains unchanged.

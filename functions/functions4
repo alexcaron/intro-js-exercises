@@ -1,0 +1,1 @@
+This program won't log anything to the console. There is a console.log method call within the scream function, but the function has an empty return line before the console.log call. Therefore, the function won't ever run console.log; the return statement stops the program from running the rest of the function's block of code.
