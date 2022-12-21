@@ -1,0 +1,1 @@
+This will log "Not Empty" because an array object, even an empty one, has a truthy value.

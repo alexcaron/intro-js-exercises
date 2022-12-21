@@ -1,0 +1,6 @@
+This will log:
+Product2
+Product3
+Product not found!
+
+The switch statement will match case '113' based on the value passed in to serial. But the cases don't include break statements, and so the program will evaluate the blocks of all the remaining cases.
