@@ -1,0 +1,5 @@
+array1.length --> 4 since it has four elements, even if the third is set to undefined.
+array2.length --> 5 since the length has been modified to 5. Even the unset values count towards the length of the array.
+array3.length --> 0 since only elements with indices of 0, 1, 2, ... etc. count towards the length of the array.
+array4.length --> 3 since manually changing the length of the array is destructive of the original array.
+array5.length --> 101 since the array will have many unset elements added up to element 100. An array with an element at index 100 has a length of 101.
