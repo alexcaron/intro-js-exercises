@@ -1,0 +1,1 @@
+These will give different results because Object.keys() only returns an object's own keys, not any keys it inherited from a prototype. So the first code snippet will not print 'foo' or 'bar'.

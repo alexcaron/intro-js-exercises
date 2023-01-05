@@ -1,0 +1,45 @@
+function hello(greeting, name) {
+  return greeting + ' ' + name;
+}
+
+function xyzzy() {
+  return { a: 1, b: 2, c: [3, 4, 5], d: {} };
+}
+
+const howdy = hello('Hi', 'Grace');
+let foo = xyzzy();
+
+VARIABLES
+hello
+greeting
+name
+xyzzy
+howdy
+foo
+
+OBJECT PROPERTY NAMES
+a
+b
+c
+d
+0 (from the array)
+1
+2
+
+PRIMITIVE VALUES
+' '
+1
+2
+3
+4
+5
+'Hi'
+'Grace'
+
+OBJECTS
+function hello
+function xyzzy
+{ a: 1, b: 2, c: [3, 4, 5], d: {} }
+[3, 4, 5]
+{}
+(these last 3 are twice)

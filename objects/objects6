@@ -1,0 +1,8 @@
+"foo" - PRIMITIVE since this is a string
+3.1415 - PRIMITIVE since this is a number
+[ 'a', 'b', 'c' ] - OBJECT since this is an array
+false - PRIMITIVE since this is a boolean
+foo - neither since this is a variable (or possibly a function name)
+function bar() { return "bar"; } - OBJECT since this is a function
+undefined - PRIMITIVE since undefined is a primitive in JavaScript
+{ a: 1, b: 2 } - OBJECT since this is an object literal

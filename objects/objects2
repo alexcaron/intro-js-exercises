@@ -1,0 +1,1 @@
+1, '1', 'hello world', and 'true' are all valid because they are strings or symbols. undefined and true are also valid because they become strings in this context (rather than being reserved words as usual in JavaScript).

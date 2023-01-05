@@ -1,0 +1,5 @@
+[1, 2, ["a", ["b", false]], null, {}]
+
+has 6 PRIMITIVES - 1, 2, "a", "b", false, null
+
+and has 4 OBJECTS - outermost array, 2 inner arrays, empty object
