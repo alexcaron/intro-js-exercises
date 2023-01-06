@@ -1,0 +1,1 @@
+This will return the number 5 (even though the variable y is now set to 6). The ++ operator coerces the string into an integer, and then increments it by 1. But x++ returns x (the value before the increment has happened), whereas ++x returns x+1 (the value after incrementing).

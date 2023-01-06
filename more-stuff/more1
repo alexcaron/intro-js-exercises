@@ -1,0 +1,1 @@
+In this case, the array that both variables (array1 and array2) point to is updated to have 4 in its 2nd index position. So the program will print [1, 4, 3].

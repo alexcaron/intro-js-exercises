@@ -1,0 +1,1 @@
+This error message shows that the greeting variable is not defined, which occurs at line 4, character 15. This happens within a function called "hello" in the exercise2.js file, which is called globally in the program.

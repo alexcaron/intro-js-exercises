@@ -1,0 +1,1 @@
+Exception handling is a way to code in logic about what to do if a program throws an error/exception at runtime. The program can be set up to do something (try) and then do something else if there are specific errors (catch statements).
